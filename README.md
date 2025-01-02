@@ -1,6 +1,7 @@
 # Amazon-Clone
 Basic Amazon WebClone using HTML ,CSS &amp; Js
 Amazon Website Clone
+
 This repository contains the code for an Amazon website clone designed using HTML, CSS, and JavaScript. The project mimics the core structure and features of the Amazon homepage, providing a responsive and user-interactive design. The clone includes essential sections such as the header, search functionality, product listings, and a footer with useful links.
 
 Features
